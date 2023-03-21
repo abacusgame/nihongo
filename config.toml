@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+#languageCode = 'en-us'
+#title = 'My New Hugo Site'
+
+#baseURL = "https://abacusgame.github.io/"
+languageCode = "ja-jp"
+title = "Nihongo"
+theme = "mainroad"
